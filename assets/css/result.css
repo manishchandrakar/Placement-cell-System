@@ -1,3 +1,7 @@
+*{
+     font-family: sans-serif;
+}
+
 section{
     margin-left:10%;
     
@@ -5,7 +9,7 @@ section{
 h1{
     margin-top: 4%;
     margin-bottom: 2%;
-    font-style: oblique;
+/*     font-style: oblique; */
 }
 table{
     border-collapse: collapse;
